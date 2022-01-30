@@ -1,11 +1,9 @@
 import com.codeborne.selenide.CollectionCondition;
 import com.codeborne.selenide.Selenide;
-import com.codeborne.selenide.conditions.Visible;
 import io.github.bonigarcia.wdm.WebDriverManager;
-import org.hamcrest.Condition;
 import org.junit.Test;
-import org.openqa.selenium.By;
-import org.openqa.selenium.Keys;
+
+
 
 public class FirstTest {
     @Test
